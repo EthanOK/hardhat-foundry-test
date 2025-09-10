@@ -10,3 +10,7 @@
 
 ## [foundry_test](https://github.com/EthanOK/foundry_test_solidity)
 
+
+# New Project Starter 
+## [Contract Starter](https://github.com/EthanOK/bric-contract-starter)
+
